@@ -1,0 +1,23 @@
+{
+  "name": "broccoli_market_socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marketccoli/broccoli_market_socket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marketccoli/broccoli_market_socket/issues"
+  },
+  "homepage": "https://github.com/marketccoli/broccoli_market_socket#readme",
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  }
+}
